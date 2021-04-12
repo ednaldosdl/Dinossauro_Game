@@ -2,8 +2,8 @@
 <h1 align="center">Dinossauro_Game  :Sem Internet:</h5>
 
 <p align="center">
-  <a href="https://github.com/ednaldosdl/Game_Resgate" target="_blank">
-    <img src="/imgs/capa.jpg" alt="Portfolio"/>
+  <a href="https://github.com/ednaldosdl/Dinossauro_Game" target="_blank">
+    <img src="example.png" alt="Capa"/>
   </a>
 
 # Dinossauro_Game
